@@ -22,6 +22,7 @@ node_modules/
 dist/
 dist-ssr/
 coverage/
+*.local
 *.tsbuildinfo
 npm-debug.log*
 yarn-debug.log*
